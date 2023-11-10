@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeygonK
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React,Node and Laravel
+- 🌱 I’m learning at ALX
 - 💞️ I’m looking to collaborate on many projects
 
 
