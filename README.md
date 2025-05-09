@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @BeygonK
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m learning at ALX
-- 💞️ I’m looking to collaborate on many projects
+Hey there, I'm Beygon Kipkoech! 👋
+I'm a Full-Stack Software Engineer with a passion for crafting robust, user-friendly applications using JavaScript and Python. I love turning ideas into reality through clean code, seamless user experiences, and innovative solutions. Welcome to my GitHub!
+🚀 About Me
 
+🔭 Currently building AI applications
+🌱 Diving deeper into AI/ML
+💼 Open to collaborating on open-source projects or freelance gigs
+📫 Reach out: kipkoechbeygone@gmail.com
+⚡ Fun fact: I brew my own coffee blends!
 
-<!---
-BeygonK/BeygonK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech Stack
+
+🏆 Featured Projects
+
+📊 GitHub Stats
+
+📈 Profile Views
+
+💬 Let's Connect!
+
+"Code is like humor: when you have to explain it, it’s bad." – Cory House
