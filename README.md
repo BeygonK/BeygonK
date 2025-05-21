@@ -1,5 +1,6 @@
 Hey there, I'm Beygon Kipkoech! 👋
 I'm a Full-Stack Software Engineer with a passion for crafting robust, user-friendly applications using JavaScript and Python. I love turning ideas into reality through clean code, seamless user experiences, and innovative solutions. Welcome to my GitHub!
+
 🚀 About Me
 
 🔭 Currently building AI applications
