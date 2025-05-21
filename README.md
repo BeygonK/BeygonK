@@ -9,13 +9,9 @@ I'm a Full-Stack Software Engineer with a passion for crafting robust, user-frie
 📫 Reach out: kipkoechbeygone@gmail.com
 ⚡ Fun fact: I brew my own coffee blends!
 
+
 🛠️ Tech Stack
-
-🏆 Featured Projects
-
-📊 GitHub Stats
-
-📈 Profile Views
+MERN, Convex, Django, Nextjs
 
 💬 Let's Connect!
 
